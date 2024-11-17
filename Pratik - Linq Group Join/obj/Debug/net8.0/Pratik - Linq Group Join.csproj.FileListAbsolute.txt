@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\bin\Debug\net8.0\Pratik - Linq Group Join.exe
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\bin\Debug\net8.0\Pratik - Linq Group Join.deps.json
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\bin\Debug\net8.0\Pratik - Linq Group Join.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\bin\Debug\net8.0\Pratik - Linq Group Join.dll
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\bin\Debug\net8.0\Pratik - Linq Group Join.pdb
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.dll
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\refint\Pratik - Linq Group Join.dll
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.pdb
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\Pratik - Linq Group Join.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik - Linq Group Join\obj\Debug\net8.0\ref\Pratik - Linq Group Join.dll
